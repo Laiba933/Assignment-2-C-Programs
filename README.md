@@ -9,25 +9,22 @@
 
 Name: Laiba Khan
 Roll No: 160926748002
-**
-About**
+
+**About**
 
 C solutions for Assignment-2, solved and accepted on HackerRank.
 
-**Programs**
+## Programs
 
-Sum and Difference of Two Numbers
-File: 01_Sum_and_Difference.c
-Functions in C
-File: 02_Functions_in_C.c
-For Loop in C
-File: 03_For_Loop_in_C.c
-Bitwise Operators
-File: 04_Bitwise_Operators.c
-Conditional Statements in C
-File: 05_Conditional_Statements.c
-**
-Concepts Covered**
+| S. No. | Program Name | File Name |
+|--------|--------------|-----------|
+| 1 | Sum and Difference of Two Numbers | `01_Sum_and_Difference.c` |
+| 2 | Functions in C | `02_Functions_in_C.c` |
+| 3 | For Loop in C | `03_For_Loop_in_C.c` |
+| 4 | Bitwise Operators | `04_Bitwise_Operators.c` |
+| 5 | Conditional Statements in C | `05_Conditional_Statements.c` |
+
+**Concepts Covered**
 
 • Input and output using scanf() and printf()
 • User-defined functions
